@@ -1,0 +1,9 @@
+.nav_container, .ul, .ul_container{
+    border: 1px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+

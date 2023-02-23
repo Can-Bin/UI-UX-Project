@@ -5,7 +5,7 @@
     scroll-behavior: smooth;
 }
 
-.body{
+body{
     background: var(--color-bg);
 }
 
@@ -91,10 +91,10 @@ a{
   }
   
 
-/* .App{
+.App{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
     
-} */
+}

@@ -1,6 +1,5 @@
 .gpt3__header{
     display: flex;
-    border: 1px solid white;
 }
 
 .gpt3__header-content{
@@ -10,7 +9,6 @@
     align-items: flex-start;
     flex-direction: column;
     margin-right: 5rem;
-    border: 1px solid red;
 }
 
 .gpt3__header-content h1{

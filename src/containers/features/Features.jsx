@@ -4,7 +4,7 @@ import Feature from "../../components/feature/Feature"
 
 const Features = () => {
   return (
-    <div className='gpt3__features section__margin'>
+    <div className='gpt3__features section__margin' id='features'>
       <div className='gpt3__features-left'>
         <h1 className='gradient__text'>The Future is Now and You Just Need To Realize It. Step into Future Today & Make it Happen.</h1>
         <p>Request Early Access to Get Started</p>
@@ -16,6 +16,7 @@ const Features = () => {
         <Feature title="Really boy law county" text="Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush."/>
       </div>
     </div>
+
   )
 }
 

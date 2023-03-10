@@ -9,7 +9,7 @@ import blog5 from "../../assets/blog05.png"
 
 const Blog = () => {
   return (
-    <div className='section__margin'>
+    <div className='section__margin gpt3__blog'>
       <div className='gpt3__blog-content'>
         <h1>A lot is happening, We are blogging about it.</h1>
       </div>

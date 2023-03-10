@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 1170px;
+    max-width: 1170px;
     height: auto;
     background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
     border: 1px solid #000000;

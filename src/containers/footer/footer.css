@@ -150,6 +150,7 @@
 
     .gpt3__footer-heading{
         width: 100%;
+        padding: 2rem;
     }
     .gpt3__footer-content__links-left{
         display: flex;
